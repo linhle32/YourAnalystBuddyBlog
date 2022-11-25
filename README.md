@@ -11,3 +11,6 @@ Introduction to Python Programming
 - Loops in Python
 - Collections in Python
 - Functions in Python
+
+Working with Data Set
+- Numpy array

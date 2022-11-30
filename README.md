@@ -14,3 +14,4 @@ Introduction to Python Programming
 
 Working with Data Set
 - Numpy array
+- Numpy operations

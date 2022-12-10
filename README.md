@@ -16,3 +16,4 @@ Working with Data Set
 - Numpy array
 - Numpy operations
 - Array concatenation
+- Loading data with Pandas

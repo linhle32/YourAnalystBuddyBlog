@@ -18,3 +18,4 @@ Working with Data Set
 - Array concatenation
 - Loading data with Pandas
 - Pandas dataframe
+- Pandas column operations

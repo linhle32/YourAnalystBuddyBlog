@@ -19,3 +19,6 @@ Working with Data Set
 - Loading data with Pandas
 - Pandas dataframe
 - Pandas column operations
+- Text data in Pandas
+- Concatenating dataframes
+- Merging dataframes

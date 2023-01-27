@@ -22,3 +22,6 @@ Working with Data Set
 - Text data in Pandas
 - Concatenating dataframes
 - Merging dataframes
+
+Exploratory analysis
+- Analyze numeric distributions

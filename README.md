@@ -25,3 +25,10 @@ Working with Data Set
 
 Exploratory analysis
 - Analyze numeric distributions
+- Analyze categorical distributions
+- Analyze correlations between numeric data
+- Analyze correlations with categorical data
+
+Preprocessing data
+- Handling outliers
+- Handling missing data

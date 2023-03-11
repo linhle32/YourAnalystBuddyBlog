@@ -32,3 +32,4 @@ Exploratory analysis
 Preprocessing data
 - Handling outliers
 - Handling missing data
+- Scaling numeric data

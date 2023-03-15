@@ -1,0 +1,34 @@
+﻿AgeGroup,State,Area,EmploymentSector,Opinion
+40 to 60,NH,Rural,Private,Neutral
+40 to 60,NY,Rural,NGO,Agree
+20 to 40,CT,Rural,Government,Disagree
+over 60,CT,Rural,Private,Very Agree
+40 to 60,MA,Rural,Government,Neutral
+over 60,NH,Rural,Private,Disagree
+20 to 40,NY,Urban,Private,Neutral
+20 to 40,CT,Urban,NGO,Very Disagree
+40 to 60,CT,Urban,Private,Very Agree
+40 to 60,MA,Rural,Private,Very Disagree
+20 to 40,MA,Urban,Private,Disagree
+20 to 40,NY,Urban,NGO,Agree
+over 60,MA,Urban,Government,Neutral
+40 to 60,NY,Rural,Private,Agree
+40 to 60,NH,Urban,Private,Disagree
+20 to 40,NY,Rural,NGO,Agree
+over 60,NY,Rural,Government,Very Agree
+40 to 60,NY,Urban,Government,Very Agree
+40 to 60,NH,Rural,Government,Agree
+over 60,CT,Rural,Government,Very Disagree
+20 to 40,NY,Urban,Private,Agree
+40 to 60,CT,Urban,Government,Very Disagree
+20 to 40,MA,Urban,Unemployed,Disagree
+20 to 40,MA,Urban,NGO,Disagree
+over 60,MA,Rural,NGO,Disagree
+over 60,NH,Urban,Government,Agree
+over 60,CT,Rural,NGO,Very Disagree
+20 to 40,NH,Rural,NGO,Neutral
+over 60,NH,Urban,NGO,Neutral
+40 to 60,VT,Rural,Unemployed,Neutral
+over 60,VT,Rural,Private,Disagree
+20 to 40,PA,Urban,Private,Neutral
+20 to 40,VA,Urban,NGO,Very Disagree

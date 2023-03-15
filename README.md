@@ -33,3 +33,4 @@ Preprocessing data
 - Handling outliers
 - Handling missing data
 - Scaling numeric data
+- Encoding categorical data

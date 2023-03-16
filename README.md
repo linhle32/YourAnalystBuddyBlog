@@ -34,3 +34,4 @@ Preprocessing data
 - Handling missing data
 - Scaling numeric data
 - Encoding categorical data
+- Handling skewed data

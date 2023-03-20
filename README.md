@@ -35,3 +35,5 @@ Preprocessing data
 - Scaling numeric data
 - Encoding categorical data
 - Handling skewed data
+- Train-test splitting
+- Simple data pipeline

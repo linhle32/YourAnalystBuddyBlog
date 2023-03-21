@@ -37,3 +37,7 @@ Preprocessing data
 - Handling skewed data
 - Train-test splitting
 - Simple data pipeline
+- Comprehensive data pipeline
+
+Regression analysis
+- Simple linear regression

@@ -41,3 +41,4 @@ Preprocessing data
 
 Regression analysis
 - Simple linear regression
+- Linear regression model

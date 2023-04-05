@@ -44,3 +44,6 @@ Preprocessing data
 Regression analysis
 - Simple linear regression
 - Linear regression model
+
+Model evaluation
+- Cross-validation

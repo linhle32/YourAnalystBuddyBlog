@@ -47,4 +47,8 @@ Regression analysis
 - Polynomial regression model
 
 Model evaluation
-The overfitting problem
+- Cross validation
+- The overfitting problem
+
+Regularization
+- Regularization 

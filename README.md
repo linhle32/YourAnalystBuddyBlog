@@ -45,6 +45,7 @@ Regression analysis
 - Simple linear regression
 - Linear regression model
 - Polynomial regression model
+- Regularized linear models
 
 Model evaluation
 - Cross validation

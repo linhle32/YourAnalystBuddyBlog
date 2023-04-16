@@ -47,6 +47,9 @@ Regression analysis
 - Polynomial regression model
 - Regularized linear models
 
+Classification analysis
+- Classification introduction
+
 Model evaluation
 - Cross validation
 - The overfitting problem

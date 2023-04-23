@@ -50,6 +50,7 @@ Regression analysis
 Classification analysis
 - Classification introduction
 - Logistic regression
+- Evaluate binary classification models
 
 Model evaluation
 - Cross validation

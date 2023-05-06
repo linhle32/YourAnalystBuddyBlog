@@ -61,3 +61,6 @@ Regularization
 
 Model tuning
 - Model tuning
+
+Machine learning
+- Support vector machine for binary classification

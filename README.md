@@ -6,7 +6,7 @@ Notebooks and data sets are placed in the same folder and will be maintained as 
 
 Currently, I have had notebooks (and data) for the following topics:
 
-Introduction to Python Programming
+#### Introduction to Python Programming
 - Python variables
 - the print() function
 - if-else in Python
@@ -14,7 +14,7 @@ Introduction to Python Programming
 - Collections in Python
 - Functions in Python
 
-Working with Data Set
+#### Working with Data Set
 - Numpy array
 - Numpy operations
 - Array concatenation
@@ -25,13 +25,13 @@ Working with Data Set
 - Concatenating dataframes
 - Merging dataframes
 
-Exploratory analysis
+#### Exploratory analysis
 - Analyze numeric distributions
 - Analyze categorical distributions
 - Analyze correlations between numeric data
 - Analyze correlations with categorical data
 
-Preprocessing data
+#### Preprocessing data
 - Handling outliers
 - Handling missing data
 - Scaling numeric data
@@ -41,26 +41,28 @@ Preprocessing data
 - Simple data pipeline
 - Comprehensive data pipeline
 
-Regression analysis
+#### Regression analysis
 - Simple linear regression
 - Linear regression model
 - Polynomial regression model
 - Regularized linear models
 
-Classification analysis
+#### Classification analysis
 - Classification introduction
 - Logistic regression
 - Evaluate binary classification models
 
-Model evaluation
+#### Model evaluation
 - Cross validation
 - The overfitting problem
 
-Regularization
+#### Regularization
 - Regularization 
 
-Model tuning
+#### Model tuning
 - Model tuning
 
-Machine learning
+#### Machine learning
 - Support vector machine for binary classification
+- Support vector machine hyperparamters
+- Support vector regression

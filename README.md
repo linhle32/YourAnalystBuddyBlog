@@ -63,6 +63,8 @@ Currently, I have had notebooks (and data) for the following topics:
 - Model tuning
 
 #### Machine learning
-- Support vector machine for binary classification
-- Support vector machine hyperparamters
-- Support vector regression
+- Support vector machine
+    - Support vector machine for binary classification
+    - Support vector machine hyperparamters
+    - Support vector regression
+    - Pipeline for support vector machine

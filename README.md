@@ -68,3 +68,6 @@ Currently, I have had notebooks (and data) for the following topics:
     - Support vector machine hyperparamters
     - Support vector regression
     - Pipeline for support vector machine
+- Decision tree
+    - Decision tree for classification
+    - Decision tree splits in classification

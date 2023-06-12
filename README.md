@@ -71,3 +71,4 @@ Currently, I have had notebooks (and data) for the following topics:
 - Decision tree
     - Decision tree for classification
     - Decision tree splits in classification
+    - Regression trees
